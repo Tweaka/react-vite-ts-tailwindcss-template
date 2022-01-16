@@ -6,7 +6,7 @@ const ErrorPage: React.FC = () => {
       <a className="underline absolute pt-2 pl-2 " href="/">
         back to home page
       </a>
-      <img className="w-full" src="src/images/bison.jpg" alt="404 not found" />
+      <img className="w-screen h-screen" src="src/images/bison.jpg" alt="404 not found" />
     </div>
   );
 };
